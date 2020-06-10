@@ -8,5 +8,4 @@ et c'est good
 server.cfg
 
 
-Paypal.me/Kylian103 :Kappa:
 Bref support discord Loze_Kylian#8912
